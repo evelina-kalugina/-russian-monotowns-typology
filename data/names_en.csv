@@ -1,0 +1,248 @@
+number,name_en,region_en
+1,Raychikhinsk,Amur Oblast
+2,Onega,Arkhangelsk Oblast
+3,Fokino,Bryansk Oblast
+8,Teploozersk,Jewish Autonomous Oblast
+9,Petrovsk-Zabaykalsky,Zabaykalsky Krai
+11,Anzhero-Sudzhensk,Kemerovo Oblast
+12,Beryozovsky,Kemerovo Oblast
+13,Kaltan,Kemerovo Oblast
+14,Kiselyovsk,Kemerovo Oblast
+15,Mezhdurechensk,Kemerovo Oblast
+16,Myski,Kemerovo Oblast
+17,Osinniki,Kemerovo Oblast
+18,Prokopyevsk,Kemerovo Oblast
+19,Topki,Kemerovo Oblast
+20,Demyanovo,Kirov Oblast
+21,Galich,Kostroma Oblast
+22,Manturovo,Kostroma Oblast
+23,Yeniseysk,Krasnoyarsk Krai
+27,Parfino,Novgorod Oblast
+28,Gorny,Novosibirsk Oblast
+29,Aleksandrovsk,Perm Krai
+30,Nytva,Perm Krai
+31,Pechory,Pskov Oblast
+32,Dagestanskiye Ogni,Republic of Dagestan
+33,Pudozh,Republic of Karelia
+34,Zheshart,Komi Republic
+35,Vorkuta,Komi Republic
+36,Inta,Komi Republic
+37,Yemva,Komi Republic
+38,Armyansk,Crimea
+39,Chernogorsk,Republic of Khakassia
+40,Gukovo,Rostov Oblast
+41,Donetsk,Rostov Oblast
+42,Zverevo,Rostov Oblast
+43,Mikhaylov,Ryazan Oblast
+44,Skopin,Ryazan Oblast
+45,Tolyatti,Samara Oblast
+46,Volsk,Saratov Oblast
+47,Firovo,Tver Oblast
+48,Inza,Ulyanovsk Oblast
+49,Chegdomyn,Khabarovsk Krai
+50,Verkhny Ufaley,Chelyabinsk Oblast
+51,Nyazepetrovsk,Chelyabinsk Oblast
+52,Ust-Katav,Chelyabinsk Oblast
+53,Novoaltaysk,Altai Krai
+54,Stepnoye Ozero,Altai Krai
+55,Koryazhma,Arkhangelsk Oblast
+56,Novodvinsk,Arkhangelsk Oblast
+57,Plesetsk,Arkhangelsk Oblast
+58,Severodvinsk,Arkhangelsk Oblast
+59,Oktyabrsky,Arkhangelsk Oblast
+60,Gubkin,Belgorod Oblast
+61,Klintsy,Bryansk Oblast
+62,Pogar,Bryansk Oblast
+63,Seltso,Bryansk Oblast
+64,Surazh,Bryansk Oblast
+65,Gorokhovets,Vladimir Oblast
+66,Vyazniki,Vladimir Oblast
+67,Melenki,Vladimir Oblast
+68,Sobinka,Vladimir Oblast
+69,Gus-Khrustalny,Vladimir Oblast
+70,Kolchugino,Vladimir Oblast
+71,Mikhaylovka,Volgograd Oblast
+72,Veliky Ustyug,Vologda Oblast
+73,Chagoda,Vologda Oblast
+74,Yelan-Koleno,Voronezh Oblast
+76,Verkh-Usugli,Zabaykalsky Krai
+77,Krasnokamensk,Zabaykalsky Krai
+78,Aginskoye,Zabaykalsky Krai
+79,Borzya,Zabaykalsky Krai
+80,Kolobovo,Ivanovo Oblast
+81,Navoloki,Ivanovo Oblast
+82,Privolzhsk,Ivanovo Oblast
+83,Savino,Ivanovo Oblast
+84,Yuzha,Ivanovo Oblast
+85,Vichuga,Ivanovo Oblast
+86,Zheleznogorsk-Ilimsky,Irkutsk Oblast
+87,Tulun,Irkutsk Oblast
+88,Usolye-Sibirskoye,Irkutsk Oblast
+89,Ust-Ilimsk,Irkutsk Oblast
+90,Cheremkhovo,Irkutsk Oblast
+91,Borovsk,Kaluga Oblast
+92,Kondrovo,Kaluga Oblast
+93,Krasnobrodsky,Kemerovo Oblast
+94,Leninsk-Kuznetsky,Kemerovo Oblast
+95,Novokuznetsk,Kemerovo Oblast
+96,Tashtagol,Kemerovo Oblast
+97,Yurga,Kemerovo Oblast
+98,Yashkino,Kemerovo Oblast
+99,Belovo,Kemerovo Oblast
+100,Belaya Kholunitsa,Kirov Oblast
+101,Krasnaya Polyana,Kirov Oblast
+102,Murygino,Kirov Oblast
+104,Kodinsk,Krasnoyarsk Krai
+105,Zaozyorny,Krasnoyarsk Krai
+106,Vargashi,Kurgan Oblast
+107,Dalmatovo,Kurgan Oblast
+108,Pikalyovo,Leningrad Oblast
+109,Slantsy,Leningrad Oblast
+110,Syasstroy,Leningrad Oblast
+111,Kovdor,Murmansk Oblast
+112,Lovozero,Murmansk Oblast
+113,Kirovsk,Murmansk Oblast
+114,Monchegorsk,Murmansk Oblast
+115,Nikel,Murmansk Oblast
+116,Olenegorsk,Murmansk Oblast
+117,Gorodets,Nizhny Novgorod Oblast
+118,Borovichi,Novgorod Oblast
+119,Okulovka,Novgorod Oblast
+120,Linyovo,Novosibirsk Oblast
+121,Novotroitsk,Orenburg Oblast
+122,Yasny,Orenburg Oblast
+123,Bolkhov,Oryol Oblast
+124,Mtsensk,Oryol Oblast
+125,Kolpna,Oryol Oblast
+126,Serdobsk,Penza Oblast
+128,Gornozavodsk,Perm Krai
+129,Lysva,Perm Krai
+130,Ochyor,Perm Krai
+131,Arsenyev,Primorsky Krai
+132,Vostok,Primorsky Krai
+133,Luchegorsk,Primorsky Krai
+134,Yaroslavsky,Primorsky Krai
+135,Neftekamsk,Republic of Bashkortostan
+136,Sibay,Republic of Bashkortostan
+137,Belebey,Republic of Bashkortostan
+138,Beloretsk,Republic of Bashkortostan
+139,Uchaly,Republic of Bashkortostan
+140,Kamensk,Republic of Buryatia
+141,Selenginsk,Republic of Buryatia
+142,Kaspiysk,Republic of Dagestan
+143,Kondopoga,Republic of Karelia
+144,Pitkyaranta,Republic of Karelia
+145,Segezha,Republic of Karelia
+146,Krasnoperekopsk,Crimea
+147,Kozmodemyansk,Mari El Republic
+148,Ruzayevka,Republic of Mordovia
+149,Kadoshkino,Republic of Mordovia
+150,Komsomolsky,Republic of Mordovia
+151,Torbeyevo,Republic of Mordovia
+152,Turgenevo,Republic of Mordovia
+153,Neryungri,Sakha Republic (Yakutia)
+154,Udachny,Sakha Republic (Yakutia)
+155,Aykhal,Sakha Republic (Yakutia)
+156,Mirny,Sakha Republic (Yakutia)
+157,Mokhsogollokh,Sakha Republic (Yakutia)
+158,Yelabuga,Republic of Tatarstan
+159,Naberezhnye Chelny,Republic of Tatarstan
+160,Urussu,Republic of Tatarstan
+161,Kamskiye Polyany,Republic of Tatarstan
+162,Abaza,Republic of Khakassia
+163,Sayanogorsk,Republic of Khakassia
+164,Lesnoy,Ryazan Oblast
+165,Novomichurinsk,Ryazan Oblast
+166,Petrovsk,Saratov Oblast
+167,Asbest,Sverdlovsk Oblast
+168,Volchansk,Sverdlovsk Oblast
+170,Nizhny Tagil,Sverdlovsk Oblast
+171,Severouralsk,Sverdlovsk Oblast
+172,Verkh-Neyvinsky,Sverdlovsk Oblast
+173,Verkhnyaya Pyshma,Sverdlovsk Oblast
+174,Kamensk-Uralsky,Sverdlovsk Oblast
+175,Kirovgrad,Sverdlovsk Oblast
+176,Krasnoturyinsk,Sverdlovsk Oblast
+177,Krasnouralsk,Sverdlovsk Oblast
+178,Polevskoy,Sverdlovsk Oblast
+179,Kuvshinovo,Tver Oblast
+181,Aleksin,Tula Oblast
+182,Dimitrovgrad,Ulyanovsk Oblast
+184,Uvelsky,Chelyabinsk Oblast
+185,Asha,Chelyabinsk Oblast
+186,Varna,Chelyabinsk Oblast
+187,Zlatoust,Chelyabinsk Oblast
+188,Karabash,Chelyabinsk Oblast
+189,Miass,Chelyabinsk Oblast
+190,Plast,Chelyabinsk Oblast
+191,Satka,Chelyabinsk Oblast
+194,Chebarkul,Chelyabinsk Oblast
+195,Alatyr,Chuvash Republic
+196,Kanash,Chuvash Republic
+197,Shumerlya,Chuvash Republic
+198,Gavrilov-Yam,Yaroslavl Oblast
+199,Rybinsk,Yaroslavl Oblast
+200,Rostov,Yaroslavl Oblast
+201,Tutayev,Yaroslavl Oblast
+202,Zarinsk,Altai Krai
+203,Kameshkovo,Vladimir Oblast
+204,Sokol,Vologda Oblast
+205,Cherepovets,Vologda Oblast
+206,Rossosh,Voronezh Oblast
+207,Pavlovsk,Voronezh Oblast
+208,Furmanov,Ivanovo Oblast
+209,Sayansk,Irkutsk Oblast
+210,Yantarny,Kaliningrad Oblast
+211,Kozelsk,Kaluga Oblast
+212,Mednogorsky,Karachay-Cherkess Republic
+213,Kirs,Kirov Oblast
+214,Vyatskiye Polyany,Kirov Oblast
+215,Omutninsk,Kirov Oblast
+216,Orichi,Kirov Oblast
+217,Urzhum,Kirov Oblast
+218,Norilsk,Krasnoyarsk Krai
+219,Kataysk,Kurgan Oblast
+220,Zheleznogorsk,Kursk Oblast
+221,Ardatov,Nizhny Novgorod Oblast
+222,Vyksa,Nizhny Novgorod Oblast
+223,Kulebaki,Nizhny Novgorod Oblast
+224,Pervomaysk,Nizhny Novgorod Oblast
+225,Knyaginino,Nizhny Novgorod Oblast
+226,Volodarsk,Nizhny Novgorod Oblast
+227,Navashino,Nizhny Novgorod Oblast
+228,Lyubinsky,Omsk Oblast
+229,Gay,Orenburg Oblast
+230,Mednogorsk,Orenburg Oblast
+231,Mokshan,Penza Oblast
+232,Chusovoy,Perm Krai
+233,Kumertau,Republic of Bashkortostan
+234,Blagoveshchensk,Republic of Bashkortostan
+235,Kostomuksha,Republic of Karelia
+236,Atyashevo,Republic of Mordovia
+237,Nizhny Kuranakh,Sakha Republic (Yakutia)
+238,Chistopol,Republic of Tatarstan
+239,Mendeleyevsk,Republic of Tatarstan
+240,Nizhnekamsk,Republic of Tatarstan
+241,Zelenodolsk,Republic of Tatarstan
+242,Sorsk,Republic of Khakassia
+243,Kasimov,Ryazan Oblast
+244,Novokuybyshevsk,Samara Oblast
+245,Chapayevsk,Samara Oblast
+246,Verkhnyaya Salda,Sverdlovsk Oblast
+247,Verkhnyaya Tura,Sverdlovsk Oblast
+248,Kachkanar,Sverdlovsk Oblast
+249,Malysheva,Sverdlovsk Oblast
+250,Revda,Sverdlovsk Oblast
+251,Serov,Sverdlovsk Oblast
+252,Pervouralsk,Sverdlovsk Oblast
+253,Dorogobuzh,Smolensk Oblast
+254,Nevinnomyssk,Stavropol Krai
+255,Kotovsk,Tambov Oblast
+256,Likhoslavl,Tver Oblast
+257,Kimovsk,Tula Oblast
+258,Belyov,Tula Oblast
+260,Yefremov,Tula Oblast
+261,Votkinsk,Udmurt Republic
+262,Sarapul,Udmurt Republic
+263,Glazov,Udmurt Republic
+264,Magnitogorsk,Chelyabinsk Oblast
